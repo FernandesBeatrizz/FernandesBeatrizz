@@ -2,7 +2,7 @@
 Hi, I'm Beatriz Fernandes, a Data Science and Artificial Intelligence student from Coimbra, Portugal. I am currently in the 3rd year of my Bachelor's degree, where I have been developing projects across different courses and areas, gaining hands-on experience with various technologies and problem domains.<br>I’m particularly interested in collaborating on projects related to Data Engineering and Artificial Intelligence.
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrizz-fernandess) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandess.beatrizz@gmail.com)
